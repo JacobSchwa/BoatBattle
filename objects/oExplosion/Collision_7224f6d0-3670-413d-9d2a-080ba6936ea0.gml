@@ -1,4 +1,4 @@
 with(other){
-	hp -= 10;
+	hp -= 1;
 	sprite_index = sBasicEnemyHurt;
 }

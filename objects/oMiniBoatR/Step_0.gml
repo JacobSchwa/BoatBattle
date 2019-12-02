@@ -1,6 +1,6 @@
 tickr += 1; 
 
-if(tickr == 10){
+if(tickr == 20){
 	instance_create_layer(x, y, layer, oCannonR);
 	tickr = 0;
 }

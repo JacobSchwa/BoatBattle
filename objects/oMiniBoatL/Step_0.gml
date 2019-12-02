@@ -1,6 +1,6 @@
 tick += 1; 
 
-if(tick == 10){
+if(tick == 20){
 	instance_create_layer(x, y, oPlayer.layer, oCannonL);
 	tick = 0;
 }
