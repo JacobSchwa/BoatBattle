@@ -8,6 +8,8 @@ if(oPlayer.level == 1){
 	alarm[4] = 400;
 } else if(oPlayer.level == 4){
 	alarm[4] = 150;
-} else if(oPlayer.level >= 5){
+} else if(oPlayer.level == 5){
 	alarm[4] = 100;
+} else if(oPlayer.level >= 6){
+	alarm[4] = 80;
 }

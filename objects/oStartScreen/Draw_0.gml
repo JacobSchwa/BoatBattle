@@ -23,6 +23,3 @@ if(selectedOp == 1){
 
 draw_set_color(c_white);
 draw_text_transformed(xcord - 160, 450 + addy, "Boat Battle", 4, 4, 0);
-
-draw_set_color(c_white);
-draw_text_transformed(cx + cw - 900, cy + ch - 300, "Welcome CMS", 3, 3, 0);
