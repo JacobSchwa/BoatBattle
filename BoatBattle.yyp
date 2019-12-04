@@ -218,7 +218,7 @@
             "Key": "67200481-1ce5-4c15-8eb6-4c5f9a873cef",
             "Value": {
                 "id": "8d7ced39-841b-4040-bb97-cfbf2b3fb625",
-                "resourcePath": "objects\/lvl1EnemySpawner\/lvl1EnemySpawner.yy",
+                "resourcePath": "objects\\oEnemySpawner\\oEnemySpawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "b658effb-551e-4f45-85d4-c382ccfb1b3c",
+            "Value": {
+                "id": "1e9b4d76-a81f-424e-a41b-19b2be928e76",
+                "resourcePath": "sprites\\sHarpoon\\sHarpoon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b76cd050-5b89-4176-a30c-acfe9f30d59f",
             "Value": {
                 "id": "a268935d-2996-4bf5-bff1-c3ffa4618d53",
@@ -468,6 +476,14 @@
                 "id": "7f04a1dc-3974-47dd-b2e7-4a6b136a8a38",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd95a45b-b41e-403a-905a-5d8184c0954e",
+            "Value": {
+                "id": "89a662c1-555a-4ded-9a0a-89f3863698cb",
+                "resourcePath": "objects\\oHarpoon\\oHarpoon.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -53,6 +53,15 @@ if(oPlayer.xp >= oPlayer.maxxp && oPlayer.level == 5){
 	levelUp = true;
 }
 if(oPlayer.xp >= oPlayer.maxxp && oPlayer.level == 6){
+	oPlayer.level = 7;
+	oPlayer.maxxp = 500;
+	oPlayer.maxhp = 200;
+	oPlayer.xp = 0;
+	oPlayer.hp = oPlayer.maxhp;
+	global.playerscore += 50;
+	levelUp = true;
+}
+if(oPlayer.xp >= oPlayer.maxxp && oPlayer.level == 7){
 	oPlayer.xp = 0;
 	oPlayer.hp = oPlayer.maxhp;
 	global.playerscore += 30;

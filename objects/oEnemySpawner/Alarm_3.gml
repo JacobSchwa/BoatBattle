@@ -1,5 +1,6 @@
 instance_create_layer(1150 + irandom_range(-300, 300), 1150 + irandom_range(-300, 300), layer, oEnemy);
 
+
 if(oPlayer.level == 1){
 	alarm[3] = 600;
 } else if(oPlayer.level == 2){

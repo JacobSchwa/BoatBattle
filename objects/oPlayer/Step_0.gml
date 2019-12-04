@@ -102,12 +102,6 @@ if(global.inMenu == false){
 }
 
 
-// Mini Boats
-
-if(level >= 5){
-	
-}
-
 if(hp <= 0){
 	room_goto(gameOver);
 }
