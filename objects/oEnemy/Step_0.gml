@@ -7,19 +7,13 @@ if (instance_exists(oPlayer) && hitCooldown < 60){
 	image_angle = lastDirection;
 }
 
-if(sprite_index == sBasicEnemyHurt){
-	tick += 1;
-	if(tick >= 15){
-		sprite_index = sBasicEnemy1;
-		tick = 0;
-	}
-}
-
-
-
 hitCooldown -= 1;
 
+if(hit == true){
+	instance_create_layer(x, y, layer, oEnemyHurt);
+	
 
+}
 
 
 

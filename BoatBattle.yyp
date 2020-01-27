@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "3b27ff0b-4d9e-4c40-893f-05e70fb1edf7",
-            "Value": {
-                "id": "e6ad3823-d0f7-4061-adb5-cdf9d210f835",
-                "resourcePath": "sprites\/sBasicEnemyHurt\/sBasicEnemyHurt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "461d7d53-b6f8-4c80-bdfa-9463c1f88c96",
             "Value": {
                 "id": "43add73d-9cfe-494f-a733-23b7179a76fb",
@@ -356,6 +348,14 @@
                 "id": "85ee4cee-02b5-41db-99c9-e99bbb9617c8",
                 "resourcePath": "sprites\/sMiniBoatL\/sMiniBoatL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91b77b77-1a3d-46f2-b762-6d96acf67737",
+            "Value": {
+                "id": "1bb168c2-1042-4d14-ab01-728896b26454",
+                "resourcePath": "objects\\oEnemyHurt\\oEnemyHurt.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -596,6 +596,14 @@
                 "id": "99aebcc5-fa66-40cf-9e7e-2c84df53490a",
                 "resourcePath": "objects\/oCannonBall\/oCannonBall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f36bdd9b-4fca-45d3-baec-4e4d8114235e",
+            "Value": {
+                "id": "686ab2aa-a470-41d9-b0df-383b63d9c142",
+                "resourcePath": "sprites\\sHurt\\sHurt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
