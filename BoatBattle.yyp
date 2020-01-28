@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "042658a4-19e0-429e-ba58-1cef07f0fc9a",
+            "Value": {
+                "id": "fe24d2db-c565-485f-89f7-992c8e785722",
+                "resourcePath": "objects\\oPause\\oPause.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07af91a4-d069-4979-a7cc-6f2ecf548bb2",
             "Value": {
                 "id": "4f8a40c7-36ae-47a3-905f-25f6670cad50",
