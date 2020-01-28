@@ -1,6 +1,6 @@
 with(other){
 	hp -= 10;
-//	sprite_index = sBasicEnemyHurt;
+	sprite_index = sEnemyTankHurt;
 }
 
 instance_destroy();

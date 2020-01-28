@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "611e56c4-aa0a-4668-845c-55bc00362985",
+            "Value": {
+                "id": "51ee409c-a3ea-4ea7-b206-e289c60da6cf",
+                "resourcePath": "sprites\\sEnemyTankHurt\\sEnemyTankHurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6542e319-80a1-4dd9-bcd4-481b6d654456",
             "Value": {
                 "id": "26e600a0-c1a1-4785-b2ad-27ad7ff11bad",

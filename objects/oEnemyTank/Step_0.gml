@@ -7,13 +7,13 @@ if (instance_exists(oPlayer) && hitCooldown < 60){
 	image_angle = lastDirection;
 }
 
-//if(sprite_index == sBasicEnemyHurt){
-//	tick += 1;
-//	if(tick >= 15){
-//		sprite_index = sBasicEnemy1;
-//		tick = 0;
-//	}
-//}
+if(sprite_index == sEnemyTankHurt){
+	tick += 1;
+	if(tick >= 15){
+		sprite_index = sEnemyTank;
+		tick = 0;
+	}
+}
 
 
 
