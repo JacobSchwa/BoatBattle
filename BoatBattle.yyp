@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "db18a492-dfac-4903-9664-29c78b7d8081",
+            "Value": {
+                "id": "736789c9-0fbe-47b1-9a3a-98bd5b219cd4",
+                "resourcePath": "sprites\\sBossHurt\\sBossHurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "db36db9d-0a97-4688-b48b-7b102cf43c22",
             "Value": {
                 "id": "fd76257b-6f62-444c-9e1a-1a1611f9d87c",
