@@ -98,7 +98,7 @@
             "Key": "280836f4-965a-4455-97ed-b9585b1dfa76",
             "Value": {
                 "id": "1aa87beb-2749-4137-a7d8-9f925f58042b",
-                "resourcePath": "sprites\\sBoss\\sBoss.yy",
+                "resourcePath": "sprites\\sBossMinion\\sBossMinion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -124,6 +124,14 @@
                 "id": "68bf4078-1a6d-4ffc-be07-20eb8c19ac13",
                 "resourcePath": "views\/2c8d9b04-87fb-4af3-8901-4d67937372bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "34782abc-0daa-4e7a-80af-188c8e6e4c95",
+            "Value": {
+                "id": "1c93a326-6253-41ce-aa47-90ce3ab6ba2e",
+                "resourcePath": "sprites\\sBoss1\\sBoss1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -439,11 +447,35 @@
             }
         },
         {
+            "Key": "b06ceeb2-f6c2-4c85-9c7b-f3575632ae43",
+            "Value": {
+                "id": "79c38f6d-1ab3-4b64-a3e5-e9e11d5c69c0",
+                "resourcePath": "sprites\\sBossMinion1\\sBossMinion1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b37fd228-6d99-4bb3-b2b7-23f36b44e03b",
             "Value": {
                 "id": "0703aa14-9f4c-4bcb-b264-a71d72d34ad2",
                 "resourcePath": "objects\/oEndScreen\/oEndScreen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b46237ce-1255-4349-836d-9f51a64197ff",
+            "Value": {
+                "id": "79f1c6bf-5cec-4fd4-880e-6e01195e59a0",
+                "resourcePath": "sprites\\sBossBirth\\sBossBirth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b527d30f-5c67-4a42-8b80-b68802520776",
+            "Value": {
+                "id": "47d99eb4-3df9-44a5-8211-2bed7f762398",
+                "resourcePath": "sprites\\sBossBirthStill\\sBossBirthStill.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -475,6 +507,14 @@
             "Value": {
                 "id": "ed5f8559-8bb1-4c4f-92ed-6c0549f92f60",
                 "resourcePath": "objects\\oMiniBoatL\\oMiniBoatL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd21cdd1-511a-4383-a43c-3e4d57e3a181",
+            "Value": {
+                "id": "0a041397-d86e-40cb-906e-225860c3f0fd",
+                "resourcePath": "objects\\oBoss128\\oBoss128.yy",
                 "resourceType": "GMObject"
             }
         },
