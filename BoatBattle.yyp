@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "280836f4-965a-4455-97ed-b9585b1dfa76",
-            "Value": {
-                "id": "1aa87beb-2749-4137-a7d8-9f925f58042b",
-                "resourcePath": "sprites\\sBossMinion\\sBossMinion.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2b2c8d21-a9ed-45f2-9c2e-c4b09b500c78",
             "Value": {
                 "id": "07672c66-15a9-439d-8b04-122af09224e9",
@@ -130,7 +122,7 @@
             "Key": "34782abc-0daa-4e7a-80af-188c8e6e4c95",
             "Value": {
                 "id": "1c93a326-6253-41ce-aa47-90ce3ab6ba2e",
-                "resourcePath": "sprites\\sBoss1\\sBoss1.yy",
+                "resourcePath": "sprites\\sBossBiting\\sBossBiting.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -268,6 +260,14 @@
                 "id": "871b3af8-7c51-49ab-86ce-43d6ce5f84f4",
                 "resourcePath": "views\/68a1686f-041c-46f3-8288-0f269adec32e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6900fbf8-19e6-46bd-aaf1-97dcfa646f2a",
+            "Value": {
+                "id": "4c897c95-50fb-45b7-9f93-77450daf34f2",
+                "resourcePath": "sprites\\sBoss\\sBoss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -450,7 +450,7 @@
             "Key": "b06ceeb2-f6c2-4c85-9c7b-f3575632ae43",
             "Value": {
                 "id": "79c38f6d-1ab3-4b64-a3e5-e9e11d5c69c0",
-                "resourcePath": "sprites\\sBossMinion1\\sBossMinion1.yy",
+                "resourcePath": "sprites\\sBossMinion\\sBossMinion.yy",
                 "resourceType": "GMSprite"
             }
         },
