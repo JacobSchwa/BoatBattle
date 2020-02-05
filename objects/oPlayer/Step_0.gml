@@ -1,4 +1,4 @@
-if(global.inMenu == false){
+ if(global.inMenu == false){
 	if (keyboard_check(ord("W"))) {
 		y = y - boatSpeed * momentum;
 		image_angle = 0;

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "060dfcb4-90b3-4ac4-b800-e793daecda31",
+            "Value": {
+                "id": "32159764-476c-495a-9b6b-332fb07c2fad",
+                "resourcePath": "objects\\oMinion\\oMinion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07af91a4-d069-4979-a7cc-6f2ecf548bb2",
             "Value": {
                 "id": "4f8a40c7-36ae-47a3-905f-25f6670cad50",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "6011b691-9ec7-4d4e-9bd3-e0d37c684355",
+            "Value": {
+                "id": "1320cd42-c998-4f88-ba39-16c6c56ebdd8",
+                "resourcePath": "sprites\\sMinionHurt\\sMinionHurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "611e56c4-aa0a-4668-845c-55bc00362985",
             "Value": {
                 "id": "51ee409c-a3ea-4ea7-b206-e289c60da6cf",
@@ -292,6 +308,14 @@
                 "id": "c90ac582-cf66-4618-85bf-64c23c7d9dd2",
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "769eca44-e708-45a9-a752-623f61b7f663",
+            "Value": {
+                "id": "16089741-7cc0-4113-a346-12fec8008a33",
+                "resourcePath": "objects\\oBoss\\oBoss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -511,14 +535,6 @@
             }
         },
         {
-            "Key": "bd21cdd1-511a-4383-a43c-3e4d57e3a181",
-            "Value": {
-                "id": "0a041397-d86e-40cb-906e-225860c3f0fd",
-                "resourcePath": "objects\\oBoss128\\oBoss128.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c1e75bc3-be9d-4cde-9098-95a894c55926",
             "Value": {
                 "id": "79738cfa-47d6-497d-924d-37e549ca0800",
@@ -556,14 +572,6 @@
                 "id": "89b3c960-3596-4dcd-adcb-0b23fe2d4612",
                 "resourcePath": "views\/ce8ea331-9714-443d-b526-6b64b46f040b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d126bb89-da07-4d81-b49f-0932e245e4cd",
-            "Value": {
-                "id": "1a05b671-1870-4e00-8963-7716f1fff6d2",
-                "resourcePath": "objects\\oBoss\\oBoss.yy",
-                "resourceType": "GMObject"
             }
         },
         {

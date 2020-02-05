@@ -1,2 +1,13 @@
-/// @description Insert description here
-// You can write your code in this editor
+hp = 300;
+dmg = 300;
+hitCooldown = 100;
+lastDirection = 0;
+tick = 0;
+biteTick = 0;
+spawnRate = 200;
+spawnTick = 0;
+openingMouthTick = 0;
+birthTime = 80;
+birthTick = 0;
+givingBirth = false;
+speed = 0;
