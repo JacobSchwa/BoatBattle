@@ -12,5 +12,5 @@ if(oPlayer.level == 1){
 } else if(oPlayer.level == 5){
 	alarm[4] = 100;
 } else if(oPlayer.level >= 6){
-	alarm[4] = 80;
+	alarm[4] = 100;
 }
