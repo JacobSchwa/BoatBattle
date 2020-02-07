@@ -1,4 +1,4 @@
-if(oPlayer.xp >= oPlayer.maxxp && oPlayer.level == 1){
+ if(oPlayer.xp >= oPlayer.maxxp && oPlayer.level == 1){
 	oPlayer.level = 2;
 	oPlayer.xp = 0;
 	oPlayer.maxxp = 80;

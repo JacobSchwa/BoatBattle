@@ -1,6 +1,7 @@
 hp = 300;
+maxhp = 300;
 dmg = 300;
-hitCooldown = 100;
+hitCooldown = 0;
 lastDirection = 0;
 tick = 0;
 biteTick = 0;
@@ -10,4 +11,4 @@ openingMouthTick = 0;
 birthTime = 80;
 birthTick = 0;
 givingBirth = false;
-speed = 0;
+speed = 1.7;

@@ -26,3 +26,17 @@ if(levelUp == true && tick <= 150){
 	tick = 0;
 	levelUp = false;
 }
+
+
+
+
+// boss health bar
+
+if(instance_exists(oBoss)){
+	bossHpPercent = oBoss.hp / oBoss.maxhp;
+	
+	draw_set_color(c_black);
+	draw_rectangle(cx + cw/2 - 200, cy + 40, cx + cw/2 + 200, cy + 20, false);
+	draw_set_color(c_red);
+	draw_rectangle(cx + cw/2 - 198, cy + 38, cx + cw/2 - 202 + 400*bossHpPercent, cy + 22, false);
+}             
