@@ -1,4 +1,4 @@
- spawn = irandom_range(1, 4);
+spawn = irandom_range(1, 4);
 
 instance_create_layer(-150 + irandom_range(-300, 300), -150 + irandom_range(-300, 300), layer, oEnemy);
 

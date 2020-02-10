@@ -59,9 +59,8 @@ if(sprite_index == sBossBirth){
 if(sprite_index == sBossBirthStill){
 	birthTick += 1;
 	if(birthTick == 10){
-		instance_create_layer(x + irandom_range(-15, 15), y + irandom_range(-15, 15), layer, oMinion);
-		instance_create_layer(x + irandom_range(-15, 15), y + irandom_range(-15, 15), layer, oMinion);
-		instance_create_layer(x + irandom_range(-15, 15), y + irandom_range(-15, 15), layer, oMinion);
+		instance_create_layer(x + irandom_range(-20, 20), y + irandom_range(-15, 15), layer, oMinion);
+		instance_create_layer(x + irandom_range(-20, 20), y + irandom_range(-15, 15), layer, oMinion);
 	}
 	if(birthTick == birthTime){
 		sprite_index = sBoss;
