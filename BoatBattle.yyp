@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "390b6205-1127-4356-85f5-4e0ec928ddf2",
+            "Value": {
+                "id": "84a3782d-d6ae-4221-bc3c-685a73b0ead4",
+                "resourcePath": "sprites\\sDebris\\sDebris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b27ff0b-4d9e-4c40-893f-05e70fb1edf7",
             "Value": {
                 "id": "e6ad3823-d0f7-4061-adb5-cdf9d210f835",
@@ -291,6 +299,14 @@
             "Value": {
                 "id": "afc5f9fe-256e-41a5-aa78-4c88aa4a8223",
                 "resourcePath": "objects\/oGoldCoin\/oGoldCoin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6ed76bcd-00d3-4bd3-8bb6-a24d7e994996",
+            "Value": {
+                "id": "919734fc-0251-480e-94db-3b275138c6d1",
+                "resourcePath": "objects\\oDebris\\oDebris.yy",
                 "resourceType": "GMObject"
             }
         },
