@@ -66,7 +66,7 @@ if(sprite_index == sBossBirthStill){
 		sprite_index = sBoss;
 		birthTick = 0;
 		givingBirth = false;
-		speed = 1.7;
+		speed = 2.0;
 	}
 }
 

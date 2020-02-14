@@ -6,5 +6,3 @@ alarm[3] = 600;
 alarm[4] = 600;
 
 spawn = 0;
-bossSpawned = false;
-bossSpawnLoc = irandom_range(1, 4);
