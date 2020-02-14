@@ -80,15 +80,38 @@
 	
 	if(keyboard_check_released(vk_space) || mouse_check_button_released(mb_left)){
 		if(level == 1){
-			instance_create_layer(x, y, layer, oCannonBall);
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = -12;
+			}
 		} else if(level == 2){
-			instance_create_layer(x, y, layer, oCannonBall);
-			instance_create_layer(x, y, layer, oCannonBall2);
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = -12;
+			}
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = 12;
+			}
 		} else if(level >= 3){
-			instance_create_layer(x, y, layer, oCannonBall);
-			instance_create_layer(x, y, layer, oCannonBall2);
-			instance_create_layer(x, y, layer, oCannonBall3);
-			instance_create_layer(x, y, layer, oCannonBall4);
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = -12;
+			}
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = 12;
+			}
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = -12;
+				direction = oPlayer.image_angle - 90;
+			}
+			var this = instance_create_layer(x, y, layer, oCannonBall);
+			with (this){
+				speed = 12;
+				direction = oPlayer.image_angle - 90;
+			}
 		}
 	}
 	

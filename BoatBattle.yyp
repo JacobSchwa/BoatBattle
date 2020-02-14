@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "2b2c8d21-a9ed-45f2-9c2e-c4b09b500c78",
-            "Value": {
-                "id": "07672c66-15a9-439d-8b04-122af09224e9",
-                "resourcePath": "objects\/oCannonBall2\/oCannonBall2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2c888d52-552a-470f-9804-7c348208d6ca",
             "Value": {
                 "id": "8d9761d3-0a83-45bb-adce-341baf7b074b",
@@ -212,14 +204,6 @@
                 "id": "e4e23aa0-6fa9-4ed1-a32e-3e025202e282",
                 "resourcePath": "views\/5634a4d7-472a-4fa0-ab13-070f411ac03e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "56b17ac0-5e1d-424b-b01e-951d59dbd26b",
-            "Value": {
-                "id": "8c7ddc5b-e882-4ab5-ac59-23b1d88c4de0",
-                "resourcePath": "objects\/oCannonBall3\/oCannonBall3.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -692,14 +676,6 @@
                 "id": "4d1b70fe-7fa5-4a6b-8e4d-e054679d563a",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f66c362a-7e91-40a7-8d7b-987c68d82439",
-            "Value": {
-                "id": "d9ffed8a-084f-47a4-9401-caee806fe53d",
-                "resourcePath": "objects\/oCannonBall4\/oCannonBall4.yy",
-                "resourceType": "GMObject"
             }
         }
     ],
