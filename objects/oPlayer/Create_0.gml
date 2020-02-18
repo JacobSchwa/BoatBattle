@@ -3,6 +3,7 @@ momentum = 0;
 halfmomentum = 0;
 speedlimit = 3;
 dmg = 10;
+shootTick = 0;
 
 hp = 50;
 maxhp = 50;

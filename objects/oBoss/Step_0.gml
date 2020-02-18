@@ -48,6 +48,7 @@ if(spawnTick == spawnRate){
 	spawnTick = 0;
 	givingBirth = true;
 	speed = 0;
+	biteTick = 0;
 }
 if(sprite_index == sBossBirth){
 	openingMouthTick += 1;

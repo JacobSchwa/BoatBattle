@@ -19,14 +19,16 @@ draw_set_color(c_green);
 draw_rectangle(cx + 10, cy + 350, cx + 10 + hpPercent, cy + 335, false);
 
 if(levelUp == true && tick <= 150){
-	draw_set_color(c_white);
-	draw_text_transformed(cx + cw/2 - 50, cy + ch - 50, "Level Up!", 0.5, 0.5, 0);
+	//draw_set_color(c_white);
+	//draw_text_transformed(cx + cw/2 - 50, cy + ch - 50, "Level Up!", 0.5, 0.5, 0);
 	tick += 1;
 }else {
 	tick = 0;
 	levelUp = false;
 }
 
+draw_set_color(c_white);
+draw_text_transformed(cx + cw/2 - 50, cy + ch - 50, global.debris, 0.5, 0.5, 0);
 
 
 

@@ -115,6 +115,49 @@
 		}
 	}
 	
+	if(keyboard_check(vk_space) || mouse_check_button_pressed(mb_left)){
+		
+		shootTick += 1;
+		
+		if(shootTick == 15){
+			shootTick = 0;
+			if(level == 1){
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = -12;
+				}
+			} else if(level == 2){
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = -12;
+				}
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = 12;
+				}
+			} else if(level >= 3){
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = -12;
+				}
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = 12;
+				}
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = -12;
+					direction = oPlayer.image_angle - 90;
+				}
+				var this = instance_create_layer(x, y, layer, oCannonBall);
+				with (this){
+					speed = 12;
+					direction = oPlayer.image_angle - 90;
+				}
+			}
+		}
+	}
+	
 	
 	//Turrets
 	
@@ -126,5 +169,6 @@
 
 
 if(hp <= 0){
+	global.playerscore = 0;
 	room_goto(gameOver);
 }

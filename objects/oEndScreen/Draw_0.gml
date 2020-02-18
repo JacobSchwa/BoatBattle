@@ -19,4 +19,4 @@ draw_set_color(c_white);
 draw_text_transformed(xcord - 90, 450 + addy, "Game Over", 4, 4, 0);
 
 draw_text_transformed(xcord, 1075 + addy, "High Score", 3, 3, 0);
-draw_text_transformed(xcord, 1175 + addy, global.playerscore, 3, 3, 0);
+draw_text_transformed(xcord, 1175 + addy, global.highScore, 3, 3, 0);
