@@ -167,6 +167,16 @@
 	}
 }
 
+//bomb ability
+
+if(keyboard_check_released(ord("R")) && bombs > 0){
+	instance_create_layer(x, y, layer, oExplosion1);
+	bombs -= 1;
+}
+
+if(keyboard_check(ord("M"))){
+	hp = 0;
+}
 
 if(hp <= 0){
 	global.playerscore = 0;

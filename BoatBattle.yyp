@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "8253dd73-dcd1-4350-964e-ba465acf82a8",
+            "Value": {
+                "id": "abdb9cfb-67dd-48dc-beea-a5dd21c070e8",
+                "resourcePath": "sprites\\sExplosionBig\\sExplosionBig.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82b362f5-7612-4412-ba3d-25fd2bb58a23",
             "Value": {
                 "id": "c2c145ee-ac69-4815-a49b-731fbc3c89ce",
@@ -559,6 +567,14 @@
             }
         },
         {
+            "Key": "cb1d8a33-57ee-4750-a853-83ee83c37f46",
+            "Value": {
+                "id": "deada53f-451a-490f-98cd-c45773088d68",
+                "resourcePath": "objects\\oBombDrop\\oBombDrop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7f04a1dc-3974-47dd-b2e7-4a6b136a8a38",
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "d2674d76-99f7-4bf8-a70d-7fe8ea53faab",
+            "Value": {
+                "id": "4752e4bd-3b34-44c3-8db7-24f1fe59c27c",
+                "resourcePath": "sprites\\sCannonBallE\\sCannonBallE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d72a4cd7-4f81-4d71-ab5f-3c62ee0021f5",
             "Value": {
                 "id": "d583fa52-3837-4ff5-91b6-92c9644cb2c8",
@@ -604,6 +628,14 @@
                 "id": "fd76257b-6f62-444c-9e1a-1a1611f9d87c",
                 "resourcePath": "sprites\/sRTurretGun\/sRTurretGun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db8a2e1e-a8b5-4143-8e66-7fd94f4ff419",
+            "Value": {
+                "id": "da73f29d-928d-44bd-bac0-c11aeeb61d6c",
+                "resourcePath": "objects\\oExplosion1\\oExplosion1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -684,6 +716,14 @@
                 "id": "4d1b70fe-7fa5-4a6b-8e4d-e054679d563a",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fd203eda-9f27-4592-9e2b-0120186aeada",
+            "Value": {
+                "id": "da7e0d6f-9c39-47ac-b791-854318abc050",
+                "resourcePath": "sprites\\sbombdrop\\sbombdrop.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

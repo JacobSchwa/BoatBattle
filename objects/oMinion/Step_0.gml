@@ -1,5 +1,5 @@
 if (instance_exists(oPlayer) && hitCooldown < 60){
-	move_towards_point(oPlayer.x, oPlayer.y, 2.5);
+	move_towards_point(oPlayer.x, oPlayer.y, 3);
 	image_angle = direction;
 	lastDirection = direction;
 } else{

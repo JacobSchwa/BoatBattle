@@ -1,3 +1,3 @@
 direction = oMiniBoatR.image_angle;
 image_angle = oMiniBoatR.image_angle;
-speed = 12;
+speed = 6;

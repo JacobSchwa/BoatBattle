@@ -24,6 +24,10 @@ hitCooldown -= 1;
 
 
 if(hp < 0){
+	if(dropBomb < 51){
+		instance_create_layer(x, y, layer, oBombDrop);
+	}
+	
 	instance_destroy();
 	oPlayer.xp += 40;
 	global.playerscore += 40;

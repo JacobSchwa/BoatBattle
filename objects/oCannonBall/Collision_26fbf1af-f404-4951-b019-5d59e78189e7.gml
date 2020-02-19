@@ -1,5 +1,5 @@
 with(other){
-	hp -= 10;
+	hp -= 100;
 	sprite_index = sEnemyTankHurt;
 }
 
