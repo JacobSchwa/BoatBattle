@@ -1,5 +1,5 @@
-hp = 700;
-maxhp = 700;
+hp = 1000;
+maxhp = 1000;
 dmg = 300;
 hitCooldown = 0;
 lastDirection = 0;
