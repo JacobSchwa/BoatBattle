@@ -4,7 +4,7 @@ instance_create_layer(-150 + irandom_range(-300, 300), -150 + irandom_range(-300
 
 counter += 1;
  
-if(oPlayer.level >= 6 && counter >= 8){
+if(oPlayer.level >= 6 && counter >= 4){
 	if(spawn == 1){
 		instance_create_layer(-150 + irandom_range(-300, 300), -150 + irandom_range(-300, 300), layer, oEnemyTank);
 	} else if(spawn == 2){
