@@ -11,6 +11,6 @@ if(oPlayer.level == 1){
 	alarm[3] = 150;
 } else if(oPlayer.level == 5){
 	alarm[3] = 100;
-} else if(oPlayer.level >= 6){
-	alarm[3] = 100;
+} else if(oPlayer.level >= 6 && global.bossDefeated == true){
+	alarm[3] = 50;
 }
