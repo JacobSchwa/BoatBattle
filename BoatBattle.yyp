@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "6cdd138f-fad8-4307-8e7d-cae61664f605",
+            "Value": {
+                "id": "1c30964e-37c4-4aac-b14f-efef12a33eb8",
+                "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cf7620c-93e8-4cfc-8918-8e3c5f890dca",
             "Value": {
                 "id": "afc5f9fe-256e-41a5-aa78-4c88aa4a8223",
@@ -571,6 +579,14 @@
             "Value": {
                 "id": "5f41b955-b325-4017-8c4f-5bc24ed6c5d6",
                 "resourcePath": "sprites\/sGoldCoin\/sGoldCoin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c49f7928-d162-4e03-b469-6348d946da97",
+            "Value": {
+                "id": "fdad2692-adb8-43a2-b48f-f423a2af5391",
+                "resourcePath": "sprites\\sWall\\sWall.yy",
                 "resourceType": "GMSprite"
             }
         },
