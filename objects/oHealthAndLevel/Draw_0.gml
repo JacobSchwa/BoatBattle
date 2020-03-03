@@ -32,6 +32,11 @@ draw_set_color(c_white);
 draw_text_transformed(cx + cw - 80, cy + ch - 57, "X ", 0.5, 0.5, 0);
 draw_text_transformed(cx + cw - 57, cy + ch - 57, oPlayer.bombs, 0.5, 0.5, 0);
 
+draw_sprite(sTurretIcon, 1, cx + cw - 100, cy + ch - 80)
+draw_set_color(c_white);
+draw_text_transformed(cx + cw - 80, cy + ch - 87, "X ", 0.5, 0.5, 0);
+draw_text_transformed(cx + cw - 57, cy + ch - 87, oPlayer.rTurrets, 0.5, 0.5, 0);
+
 // boss health bar
 
 if(instance_exists(oBoss)){

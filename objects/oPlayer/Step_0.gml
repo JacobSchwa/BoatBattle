@@ -161,7 +161,7 @@
 	
 	//Turrets
 	
-	if(keyboard_check_released(ord("1")) && level >= 4 && rTurrets > 0){
+	if(keyboard_check_released(ord("Q")) && level >= 4 && rTurrets > 0){
 		rTurrets -= 1;
 		instance_create_layer(x, y, layer, oRTurretGun);
 	}
@@ -169,7 +169,7 @@
 
 //bomb ability
 
-if(keyboard_check_released(ord("R")) && bombs > 0){
+if(keyboard_check_released(ord("E")) && bombs > 0){
 	instance_create_layer(x, y, layer, oExplosion1);
 	bombs -= 1;
 }
