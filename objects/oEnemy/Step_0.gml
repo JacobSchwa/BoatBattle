@@ -25,6 +25,6 @@ hitCooldown -= 1;
 
 if(hp < 0){
 	instance_destroy();
-	oPlayer.xp += 1500;
+	oPlayer.xp += 15;
 	global.playerscore += 10;
 }
