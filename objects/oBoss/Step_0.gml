@@ -79,4 +79,5 @@ if(hp < 0){
 	instance_destroy();
 	oPlayer.xp += 500;
 	global.playerscore += 500;
+	global.bossDefeated = true;
 }
