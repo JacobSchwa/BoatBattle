@@ -18,9 +18,9 @@ if(oPlayer.level >= 6 && counter >= 4){
 }
 
 if(global.bossDefeated == true){
-	alarm[1] = 50;
+	alarm[1] = spawnABD;
 } else{
-	alarm[1] = spawnRates[oPlayer.level - 1];
+	alarm[1] = spawnRates[(oPlayer.level - 1)];
 }
 
 //if(oPlayer.level == 1){

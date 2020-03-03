@@ -13,12 +13,23 @@ if(selectedOp == 1){
 	draw_set_color(c_white);
 	draw_text_transformed(xcord + 60, 675 + addy, "Set Sail", 3, 3, 0);
 	draw_set_color(c_gray);
-	draw_text_transformed(xcord + 155, 800 + addy, "Exit", 3, 3, 0);
-} else{
+	draw_text_transformed(xcord + 55, 825 + addy, "Controls", 3, 3, 0);
+	draw_set_color(c_gray);
+	draw_text_transformed(xcord + 155, 975 + addy, "Exit", 3, 3, 0);
+} else if(selectedOp == 2){
 	draw_set_color(c_gray);
 	draw_text_transformed(xcord + 60, 675 + addy, "Set Sail", 3, 3, 0);
 	draw_set_color(c_white);
-	draw_text_transformed(xcord + 155, 800 + addy, "Exit", 3, 3, 0);
+	draw_text_transformed(xcord + 55, 825 + addy, "Controls", 3, 3, 0);
+	draw_set_color(c_gray);
+	draw_text_transformed(xcord + 155, 975 + addy, "Exit", 3, 3, 0);
+} else{
+	draw_set_color(c_gray);
+	draw_text_transformed(xcord + 60, 675 + addy, "Set Sail", 3, 3, 0);
+	draw_set_color(c_gray);
+	draw_text_transformed(xcord + 55, 825 + addy, "Controls", 3, 3, 0);
+	draw_set_color(c_white);
+	draw_text_transformed(xcord + 155, 975 + addy, "Exit", 3, 3, 0);
 }
 
 draw_set_color(c_white);

@@ -163,7 +163,7 @@
 	
 	if(keyboard_check_released(ord("1")) && level >= 4 && rTurrets > 0){
 		rTurrets -= 1;
-		instance_create_layer(x + 20, y, layer, oRTurretGun);
+		instance_create_layer(x, y, layer, oRTurretGun);
 	}
 }
 

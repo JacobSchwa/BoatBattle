@@ -2,7 +2,7 @@ instance_create_layer(1150 + irandom_range(-300, 300), 1150 + irandom_range(-300
 
 
 if(global.bossDefeated == true){
-	alarm[3] = 50;
+	alarm[3] = spawnABD;
 } else{
-	alarm[3] = spawnRates[oPlayer.level - 1];
+	alarm[3] = spawnRates[(oPlayer.level - 1)];
 }

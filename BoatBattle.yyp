@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "12e118fd-cb2b-4e55-a115-7ac5ae3aee32",
+            "Value": {
+                "id": "0fd1b723-a5b6-4a7e-ab0d-4b8353856bfc",
+                "resourcePath": "objects\\oControlsScreen\\oControlsScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "173b1c3c-8598-4bf2-8d22-9d7dda321ffd",
             "Value": {
                 "id": "065f85be-d54f-4fb5-8771-2f1c2e428664",
@@ -188,6 +196,14 @@
                 "id": "57db7955-5799-4329-8f3b-57f6cf9a19f0",
                 "resourcePath": "sprites\/sPlayer\/sPlayer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4bd0cd19-60ad-4a1d-b570-7e714f51e5f7",
+            "Value": {
+                "id": "e790adf4-1770-4f3c-aaed-486460ca0a52",
+                "resourcePath": "rooms\\controls\\controls.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -740,6 +756,14 @@
                 "id": "99aebcc5-fa66-40cf-9e7e-2c84df53490a",
                 "resourcePath": "objects\/oCannonBall\/oCannonBall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2b7a90d-e535-409a-ade0-0a0c48b3ee12",
+            "Value": {
+                "id": "8dffad88-27ed-4ebd-98d0-466a038ea041",
+                "resourcePath": "sprites\\sbombicon\\sbombicon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
