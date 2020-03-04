@@ -9,6 +9,7 @@ if (instance_exists(oEnemy)){
 			bullet.direction = image_angle;
 			bullet.image_angle = image_angle;
 			tick = 0;
+			sprite_index = sTurretShooting;
 		}
 	}
 } else{
@@ -17,3 +18,7 @@ if (instance_exists(oEnemy)){
 }
 
 tick += 1;
+
+if(tick > 30){
+	sprite_index = sRTurretGun;
+}

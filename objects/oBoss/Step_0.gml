@@ -76,6 +76,9 @@ if(sprite_index == sBossBirthStill){
 
 
 if(hp < 0){
+	instance_create_layer(x, y, layer, oTurretDrop);
+	instance_create_layer(x + 30, y, layer, oTurretDrop);
+	instance_create_layer(x - 30, y, layer, oTurretDrop);
 	instance_destroy();
 	oPlayer.xp += 500;
 	global.playerscore += 500;

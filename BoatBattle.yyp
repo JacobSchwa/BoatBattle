@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "2e1acbfa-ec51-4835-913f-c66ec160f9fe",
+            "Value": {
+                "id": "d1b17ab3-8bd8-4954-b067-5b78ca5eb165",
+                "resourcePath": "objects\\oTurretDrop\\oTurretDrop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "34782abc-0daa-4e7a-80af-188c8e6e4c95",
             "Value": {
                 "id": "1c93a326-6253-41ce-aa47-90ce3ab6ba2e",
@@ -179,6 +187,14 @@
             "Value": {
                 "id": "e6ad3823-d0f7-4061-adb5-cdf9d210f835",
                 "resourcePath": "sprites\/sBasicEnemyHurt\/sBasicEnemyHurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "406c1883-c2ee-4607-8b22-7f4d5482f363",
+            "Value": {
+                "id": "0220456a-f2c9-4202-9ebc-5ec701e15df1",
+                "resourcePath": "sprites\\sTurretShooting\\sTurretShooting.yy",
                 "resourceType": "GMSprite"
             }
         },
