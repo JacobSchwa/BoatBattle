@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "386062f7-50f0-415e-8c9a-6a2cf8f02f59",
-            "Value": {
-                "id": "adabdc3a-62e9-49c2-9e02-33dfe05bae57",
-                "resourcePath": "sprites\\sBasicEnemy3\\sBasicEnemy3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "38d1d213-35bc-461d-98a3-afb9b95892b5",
             "Value": {
                 "id": "8980b963-3b74-4a4d-96ce-d5dc4a416766",
@@ -447,6 +439,14 @@
             }
         },
         {
+            "Key": "84e6b248-5374-4ab4-8675-6cf9983ca997",
+            "Value": {
+                "id": "8b01f770-dc21-49b6-9fec-fefe088375aa",
+                "resourcePath": "sprites\\sBasicEnemy2\\sBasicEnemy2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c7af58f-bee1-4f4e-a837-ac6dceccd457",
             "Value": {
                 "id": "fc2470b9-d1d9-4ed6-9a3e-fee14341e72a",
@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "c3397b43-bcbb-4209-a707-0da2ecada28a",
+            "Value": {
+                "id": "84dcef65-b2bf-4910-be69-ad853ae2a6c7",
+                "resourcePath": "sprites\\sBasicEnemy3\\sBasicEnemy3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c361d703-0ee4-4196-b367-c0cbaf5cf086",
             "Value": {
                 "id": "5f41b955-b325-4017-8c4f-5bc24ed6c5d6",
@@ -671,18 +679,18 @@
             }
         },
         {
-            "Key": "d25bcdb0-bffe-4036-8011-e400a5530d18",
-            "Value": {
-                "id": "9dc3001f-92b1-4dd5-a1c5-35c575dff73c",
-                "resourcePath": "sprites\\sBasicEnemy2\\sBasicEnemy2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d2674d76-99f7-4bf8-a70d-7fe8ea53faab",
             "Value": {
                 "id": "4752e4bd-3b34-44c3-8db7-24f1fe59c27c",
                 "resourcePath": "sprites\\sCannonBallE\\sCannonBallE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d6f9fb7d-6ef8-4e27-92b8-1425f4159f26",
+            "Value": {
+                "id": "d52ce944-3dc6-43b4-8769-24e3bd827664",
+                "resourcePath": "sprites\\sprite355\\sprite355.yy",
                 "resourceType": "GMSprite"
             }
         },

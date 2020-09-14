@@ -10,7 +10,7 @@ if (instance_exists(oPlayer) && hitCooldown < 60){
 if(sprite_index == sBasicEnemyHurt){
 	tick += 1;
 	if(tick >= 15){
-		sprite_index = sBasicEnemy1;
+		sprite_index = list[skin];
 		tick = 0;
 	}
 }
